@@ -1,0 +1,9 @@
+C:\Dev\MyProjects\SysPedido\SysPedido.Domain\bin\Debug\netstandard2.0\SysPedido.Domain.deps.json
+C:\Dev\MyProjects\SysPedido\SysPedido.Domain\bin\Debug\netstandard2.0\SysPedido.Domain.dll
+C:\Dev\MyProjects\SysPedido\SysPedido.Domain\bin\Debug\netstandard2.0\SysPedido.Domain.pdb
+C:\Dev\MyProjects\SysPedido\SysPedido.Domain\obj\Debug\netstandard2.0\SysPedido.Domain.csprojAssemblyReference.cache
+C:\Dev\MyProjects\SysPedido\SysPedido.Domain\obj\Debug\netstandard2.0\SysPedido.Domain.AssemblyInfoInputs.cache
+C:\Dev\MyProjects\SysPedido\SysPedido.Domain\obj\Debug\netstandard2.0\SysPedido.Domain.AssemblyInfo.cs
+C:\Dev\MyProjects\SysPedido\SysPedido.Domain\obj\Debug\netstandard2.0\SysPedido.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\MyProjects\SysPedido\SysPedido.Domain\obj\Debug\netstandard2.0\SysPedido.Domain.dll
+C:\Dev\MyProjects\SysPedido\SysPedido.Domain\obj\Debug\netstandard2.0\SysPedido.Domain.pdb
